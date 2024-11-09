@@ -1,0 +1,7 @@
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\better-grocery-store\obj\Debug\better-grocery-store.csproj.AssemblyReference.cache
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\better-grocery-store\obj\Debug\better-grocery-store.csproj.CoreCompileInputs.cache
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\better-grocery-store\bin\Debug\better-grocery-store.exe.config
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\better-grocery-store\bin\Debug\better-grocery-store.exe
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\better-grocery-store\bin\Debug\better-grocery-store.pdb
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\better-grocery-store\obj\Debug\better-grocery-store.exe
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\better-grocery-store\obj\Debug\better-grocery-store.pdb
